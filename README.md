@@ -22,6 +22,12 @@ Secure DNS lookups (DNS over HTTPS) [chrome://flags/](chrome://flags/) > Secure 
 
 **Extensions**
 
+AdBlock https://chrome.zzzmh.cn/info?token=gighmmpiobklfepjocnamgkkbiglidom
+
+HTTPS Everywhere https://chrome.zzzmh.cn/info?token=gcbommkclmclpchllfjekcdonpmejbdp
+
+
+
 
 
 ### BitComet (Free)
@@ -48,9 +54,6 @@ Download https://www.mozilla.org/en-US/firefox/enterprise/
 
 **Extensions**
 
-ProxySwitchOmega 
+ProxySwitchOmega (Allow web traffic forwarding to local loop-back address)
 
 Download https://proxy-switchyomega.com/
-
-
-
