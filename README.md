@@ -14,17 +14,21 @@ General Browser
 
 Download https://www.google.cn/chrome/index.html
 
-Custom Configuration:
+**Settings**
 
-Enable Parallel Downloading (2 thread download) [chrome://flags/](chrome://flags/) > Parallel downloading > Enable
+Enable Parallel Downloading (2 thread concurrent download) [chrome://flags/](chrome://flags/) > Parallel downloading > Enable
 
 Secure DNS lookups (DNS over HTTPS) [chrome://flags/](chrome://flags/) > Secure DNS lookups > Enable
 
 **Extensions**
 
-AdBlock https://chrome.zzzmh.cn/info?token=gighmmpiobklfepjocnamgkkbiglidom
+Open [chrome://extensions/](chrome://extensions/) > Drag and Drop Files
 
-HTTPS Everywhere https://chrome.zzzmh.cn/info?token=gcbommkclmclpchllfjekcdonpmejbdp
+AdBlock 
+
+HTTPS Everywhere
+
+Disconnect
 
 
 
@@ -38,9 +42,9 @@ Download http://www.bitcomet.com/en
 
 ### Internet Download Manager (Free Trail)
 
-Multi-threading (8x, 16x, 32x) Download Application (http)
+Multi-threading (16x) concurrent download application (http)
 
-Life-time License (￥99) http://www.carrotchou.blog/13075.html
+Life-time license (￥99) http://www.carrotchou.blog/13075.html
 
 
 
@@ -48,7 +52,7 @@ Life-time License (￥99) http://www.carrotchou.blog/13075.html
 
 ### Firefox ESR (Free)
 
-Penetration Testing Browsers. Proxy Configuration.
+Penetration testing browser. Traffic forwarding.
 
 Download https://www.mozilla.org/en-US/firefox/enterprise/
 
@@ -57,3 +61,4 @@ Download https://www.mozilla.org/en-US/firefox/enterprise/
 ProxySwitchOmega (Allow web traffic forwarding to local loop-back address)
 
 Download https://proxy-switchyomega.com/
+
