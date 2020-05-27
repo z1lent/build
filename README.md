@@ -46,6 +46,8 @@ Download https://www.google.cn/chrome/index.html
 
 **Extensions**
 
+Extension Download in China https://chrome.zzzmh.cn/index
+
 Open [chrome://extensions/](chrome://extensions/) > Drag and Drop Files
 
 AdBlock https://github.com/z1lent/build/blob/master/Extensions/AdBlock.crx
