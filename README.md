@@ -26,8 +26,6 @@ On Elevated Command Prompt: `bcdedit /set hypervisorlaunchtype off` and restart
 
 On Elevated Command Prompt: `bcdedit /set hypervisorlaunchtype auto` and restart
 
-
-
 # Applications
 
 ## Network
@@ -46,15 +44,13 @@ Download https://www.google.cn/chrome/index.html
 
 **Extensions**
 
-Extension Download in China https://chrome.zzzmh.cn/index
+AdBlock
 
-Open [chrome://extensions/](chrome://extensions/) > Drag and Drop Files
+HTTPS Everywhere
 
-AdBlock https://github.com/z1lent/build/blob/master/Extensions/AdBlock.crx
+Disconnect (Disable website statistics tracker)
 
-HTTPS Everywhere https://github.com/z1lent/build/blob/master/Extensions/HTTPS%20Everywhere.crx
-
-Disconnect https://github.com/z1lent/build/blob/master/Extensions/Disconnect.crx
+SwitchyOmega (Proxy Switching)
 
 ### BitComet (Free)
 
@@ -67,24 +63,6 @@ Download http://www.bitcomet.com/en
 Multi-threading (16x) concurrent download application (http)
 
 Life-time license (￥99) http://www.carrotchou.blog/13075.html
-
-### Firefox ESR (Free)
-
-Penetration testing browser. Traffic forwarding.
-
-Download https://www.mozilla.org/en-US/firefox/enterprise/
-
-**Settings**
-
-Network Settings > Proxy DNS when using SOCKS v5 > Check
-
-Network Settings > Enable DNS over HTTPS > Check
-
-**Extensions**
-
-ProxySwitchOmega (Allow web traffic forwarding to local loop-back address)
-
-Download https://proxy-switchyomega.com/
 
 ### Wireshark
 
